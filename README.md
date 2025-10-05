@@ -9,7 +9,7 @@ Will be using Plaid APIs in the future to gather live data and have it visualize
 Installation
 ------------
 
-1.  git clone https://github.com/yourusername/personal-finance-tracker.gitcd personal-finance-tracker
+1.  git clone https://github.com/yourusername/personal-finance-tracker.git
     
 2.  pip install -r requirements.txtKey libraries include:
     
